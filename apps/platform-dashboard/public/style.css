@@ -1,0 +1,53 @@
+body{
+
+    margin:0;
+
+    background:#0f172a;
+
+    color:white;
+
+    font-family:Segoe UI,Arial,sans-serif;
+
+}
+
+header{
+
+    background:#111827;
+
+    text-align:center;
+
+    padding:30px;
+
+}
+
+.cards{
+
+    display:flex;
+
+    justify-content:center;
+
+    gap:20px;
+
+    padding:40px;
+
+}
+
+.card{
+
+    width:250px;
+
+    background:#1e293b;
+
+    border-radius:12px;
+
+    padding:20px;
+
+    box-shadow:0 0 15px rgba(0,0,0,.4);
+
+}
+
+.card h2{
+
+    color:#38bdf8;
+
+}
